@@ -1,0 +1,294 @@
+{
+  "basics": {
+    "name": "Fernando Quisaguano Paredes",
+    "label": "Python Developer with over 5 years of experience and extensive experience in Artificial Intelligence.",
+    "image": "/public/Profile.png",
+    "email": "ferjeff92@gmail.com",
+    "phone": "+593 123456789",
+    "url": "https://fernandoquisaguano.dev",
+    "summary": "+5 years of experience as a Python developer, currently focused on projects related to artificial intelligence solutions. I live in Quito, Ecuador. I have worked on both computer vision and natural language processing projects.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Quito",
+      "countryCode": "ES",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fernando-j-quisaguano-paredes-958a17267",
+        "url": "https://www.linkedin.com/in/fernando-j-quisaguano-paredes-958a17267/"
+      },
+      {
+        "network": "GitHub",
+        "username": "FerJeffQ",
+        "url": "https://github.com/FerJeffQ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tribal Tecnology",
+      "position": "Artificial Intelligence Developer and Python Developer",
+      "url": "#",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "summary": "Experience in data analysis, technology project management, sale of electronic equipment, monitoring of innovation projects, and technical consultancy.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Machine Learning Consultant",
+      "url": "#",
+      "startDate": "2021-02-01",
+      "endDate": "2023-02-01",
+      "summary": "Developed machine learning systems for data analysis, exploration, computer vision, and prediction; computer vision pipelines with AWS; comprehensive assessments of patterns and trends; deployed models as API services with Flask, FastAPI, and AWS SageMaker; proposed machine learning solutions aligned with product strategy.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Gammath AI",
+      "position": "Deep Learning Software Developer",
+      "startDate": "2021-02-01",
+      "endDate": "2022-02-01",
+      "summary": "Contributed to the development of machine learning models for product recommendation systems using natural language processing techniques; collaborated with cross-functional teams to integrate and optimize models, improving customer satisfaction and conversion rates.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Universidad de las Fuerzas Armadas - ESPE",
+      "position": "Researcher in Robotics and Artificial Intelligence",
+      "startDate": "2016-02-01",
+      "endDate": "2019-02-01",
+      "summary": "Developed and optimized an unmanned aerial vehicle (UAV) for rescue missions, implementing Visual SLAM techniques for autonomous navigation and mapping. Published multiple research papers on UAV technology and computer vision applications, and contributed to the development of Graph-Based RRT Optimization for Autonomous Mobile Robots.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Fundacion Telefonica",
+      "position": "Mentor in Robotics in Creative Technologies",
+      "startDate": "2015-02-01",
+      "endDate": "2016-02-01",
+      "summary": "Teacher in programming and teaching of didactic robots.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-02-01",
+    "endDate": "2013-02-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad de las Fuerzas Armadas - ESPE",
+    "url": "https://www.espe.edu.ec/",
+    "area": "Electronic Engineer in Automation and Control",
+    "studyType": "Bachelor",
+    "startDate": "2012-02-01",
+    "endDate": "2019-02-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Universidad Internacional de la Rioja - UNIR",
+    "url": "https://ecuador.unir.net/",
+    "area": "Master's Degree in Artificial Intelligence",
+    "studyType": "Master",
+    "startDate": "2021-02-01",
+    "endDate": "2022-02-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+  ],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "Pytoch",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "Tensorflow",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    },
+    {
+      "name": "Sklearn",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Robot Diferencial Autonomo con ROS",
+      "isActive": true,
+      "description": "Desarrollo de cero de un robot autónomo diferencial en plataforma ROS",
+      "highlights": [
+        "Proyecto Open Source",
+        "Robot Diferencial"
+      ],
+      "url": "https://github.com/FerJeffQ/Robot_Diferencial_ROS",
+      "github": "https://github.com/FerJeffQ/Robot_Diferencial_ROS"
+    }
+  ]
+}
